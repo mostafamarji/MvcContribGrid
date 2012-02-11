@@ -29,4 +29,6 @@ namespace MvcContrib.Samples.UI
 			RegisterRoutes(RouteTable.Routes);
 		}
 	}
+
+    // test
 }
