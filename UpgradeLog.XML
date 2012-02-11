@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MvcContribGrid">
+</Property><Property Name="Solution File" Value="C:\Users\Mostafa\Desktop\src\Chapter05\MvcContribGrid\MvcContribGrid.sln">
+</Property><Property Name="Date" Value="Wednesday, February 08, 2012">
+</Property><Property Name="Time" Value="14:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="MvcContribGrid" Source="MvcContribGrid.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MvcContribGrid" Source="MvcContribGrid.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MvcContribGrid.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MvcContribGrid.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MvcContribGrid" Source="MvcContribGrid.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
